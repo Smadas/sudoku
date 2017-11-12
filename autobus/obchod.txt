@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Toto je sprava od Pozdrav z marsu.
 Pozdravzmarsu je hlupejsy.
+=======
+Toto je sprava od Smadas. Smadas je hlupy.
+Toto je sprava od Pozdrav z marsu.
+>>>>>>> 4f67c7cfb13db4148d5b82460203b557a5f8d0a6
