@@ -121,7 +121,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{29412AB9-37D8-4C52-B4B6-6EFBD1BA7CE6}</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Sudoku.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Sudoku App/Sudoku.exe</Property>
@@ -131,7 +131,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Sudoku App/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/sudokuIco.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{6BDD4F47-C250-44D7-A8F1-50988276D014}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{16BCC6E4-4520-4B1E-B77E-E3EB7B1BBC9A}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/sudoku.vi</Property>
