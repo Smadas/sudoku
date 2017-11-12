@@ -1,13 +1,8 @@
 Smadas je hlupy.
-<<<<<<< HEAD
+Super sprava Smadas.
 Super sprava Pozdrav.
 Toto je sprava od Pozdrav z marsu.
 Super Sprava Pozdrav 2.
 Super Sprava Pozdrav 3.
-=======
-Super sprava Smadas.
-Toto je sprava od Pozdrav z marsu.
 Super sprava Smadas 2.
-Pozdravzmarsu je hlupejsy.
 Super sprava Smadas 3.
->>>>>>> 3581d5e0915371844e8e6c715c70fbc4e3086ff3
