@@ -1,8 +1,9 @@
 Smadas je hlupy.
 Super sprava Smadas.
-Super sprava Pozdrav.
+Super sprava Pozdrav. Devel added another message.
 Toto je sprava od Pozdrav z marsu.
 Super Sprava Pozdrav 2.
-Super Sprava Pozdrav 3.
 Super sprava Smadas 2.
 Super sprava Smadas 3.
+
+Devel added a message.
